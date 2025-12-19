@@ -17,7 +17,7 @@ Feel free to have a look around and check out what I’ve been building below �
     
 *   **Frontend:** HTML, CSS
     
-*   **Data Analysis:** Pandas, NumPy,
+*   **Data Analysis:** Pandas, NumPy
     
 *   **Machine Learning:** Scikit-Learn
     
